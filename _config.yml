@@ -1,6 +1,8 @@
 # Site settings
+
 title: "A Tara Resume Template"
-description: "A resume template for Tara and Arat Pages sites."
+description: "A change to the A resume template for Jekyll and GitHub Pages sites."
+
 
 # Build settings
 markdown: kramdown
